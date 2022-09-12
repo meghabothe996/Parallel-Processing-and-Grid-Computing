@@ -1,0 +1,8 @@
+LocalSum : 201,Rank=3
+ Final Sum is : 201
+LocalSum : 25,Rank=0
+ Final Sum is : 396
+LocalSum : 79,Rank=1
+ Final Sum is : 79
+LocalSum : 91,Rank=2
+ Final Sum is : 91
