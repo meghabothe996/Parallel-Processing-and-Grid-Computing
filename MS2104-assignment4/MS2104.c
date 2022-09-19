@@ -1,4 +1,4 @@
-//Composite Simpson's Rule
+//Composite Simpson's Rule //
 
 #include<stdio.h>
 #include<math.h>
